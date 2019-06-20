@@ -1,0 +1,94 @@
+turnover predicted 	157860
+actual 			160918
+
+Salaries predicted	15037
+actual			16871
+
+Exp total		30207
+actual			23352
+
+corp tax		16649
+actual			20793
+
+dividends		57772
+actual			64000
+
+profit			28899
+actual			29038
+
+VAT			20075.50
+actual			7736
+
+===================
+
+pay			8254
+actual			8164
+
+dividends		43400
+actual			43400
+
+===================
+
+
+party (staff welfare)  	150
+actual			150
+
+pension predicted	7460.80
+actual			6528
+
+use of premises 
+actual			208
+
+equipment
+actual			66
+
+phone
+actual			590
+
+internet
+actual			260
+	
+stationary
+actual			322
+
+subscriptions
+actual			248
+
+insurance
+actual			265
+
+software 
+actual			105
+
+mileage
+actual			2183
+
+transport 
+actual			8757
+
+overseas travel
+actual			4393
+
+subsistence
+actual			3411
+
+parking
+actual			14
+
+uk accom
+actual			290
+
+entertaining
+actual			63
+
+accountancy
+actual			1533
+
+accountancy self assessment
+actual			150
+
+charity
+actual			485
+
+bank charges
+actual			9
